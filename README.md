@@ -1,2 +1,3 @@
 # data_lab_01
-Repository to practice some data science.
+Repository with some pratices related to data science: BigData, Analytics and Machine Learning.
+
